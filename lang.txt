@@ -1,0 +1,24 @@
+1 Python
+2 Python
+3 Ocaml (Fuck ocaml too much time has been used to setup you)
+4 Bash
+5 Rust
+6 Zig
+7 C
+8 Js
+9 Lua
+10 Uiua (si je réussi sinon Python)
+11 php
+12 C++
+13 Java
+14 Hare
+15 LLVM IR
+16 Lisp
+17 C3
+18 LiveScript
+19 Vala
+20 AssemblyScript
+21 Gleam
+22 Dart
+23 Pascal
+24 Ruby
